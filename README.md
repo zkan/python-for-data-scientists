@@ -1,2 +1,1 @@
-# python-for-data-scientists
-Python for Data Scientists
+# Python for Data Scientists
